@@ -1,0 +1,5 @@
+a = int(input(" Enter the value of a: "))
+print(type(a))
+b = int(input("Enetr the value of b "))
+print(type(b))
+print("a is smaller than b is a", a<b, ("statement"))
