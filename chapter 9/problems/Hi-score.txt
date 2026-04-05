@@ -1,0 +1,6 @@
+Mukesh :: 300
+Suresh :: 500
+Jignesh :: 1000
+Razin :: 4000
+Karthik :: 3900
+Sailesh :: 2000
